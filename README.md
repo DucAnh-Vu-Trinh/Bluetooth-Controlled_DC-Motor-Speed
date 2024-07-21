@@ -23,4 +23,5 @@
 2. build the programe into MSP430FR2355
 ## Usage
 :ballot_box_with_check: MSP430FR2355 communicates with the mobile app through *Bluetooth* by **I2C** Protocol
+
 :ballot_box_with_check: **TIMERB0** and **TIMERB1** combine to implement **PWM** to control the Motor's Speed
